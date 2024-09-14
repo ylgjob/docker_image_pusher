@@ -1,3 +1,4 @@
 #添加nginx镜像
 nginx:1.27.0
 httpd:2.4.62
+percona/percona-xtrabackup:8.4
