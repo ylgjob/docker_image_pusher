@@ -2,3 +2,4 @@
 nginx:1.27.0
 httpd:2.4.62
 percona/percona-xtrabackup:8.0
+frolvlad/alpine-java:jdk8-slim
